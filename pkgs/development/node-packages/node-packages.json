@@ -1,5 +1,6 @@
 [
   "@angular/cli"
+, "@angular/language-server"
 , "@antfu/ni"
 , "@astrojs/language-server"
 , "@babel/cli"
@@ -34,6 +35,7 @@
 , "cdk8s-cli"
 , "cdktf-cli"
 , "clipboard-cli"
+, "coc-angular"
 , "coc-clangd"
 , "coc-cmake"
 , "coc-css"
